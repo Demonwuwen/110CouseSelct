@@ -25,13 +25,13 @@
 
 ### 截图
 
-<img src="/image/index.png" width="700">  
+<img src="/Image/index.png" width="700">  
 
-<img src="/image/log.png" width="700">
+<img src="/Image/log.png" width="700">
 
-<img src="/image/course.png" width="700">   
+<img src="/Image/course.png" width="700">   
 
-<img src="/image/selectcourse.png" width="700">
+<img src="/Image/selectcourse.png" width="700">
 
 ## 说明
 
