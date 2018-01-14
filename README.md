@@ -2,6 +2,8 @@
 
 ### [中文教程1](http://blog.csdn.net/ppp8300885/article/details/52594839) [中文教程2](http://blog.csdn.net/ppp8300885/article/details/52601560)
 
+Click here（heroku）：https://wearestupid.herokuapp.com/
+
 
 这个样本系统是基于国科大研究生课程 (高级软件工程) 开发的项目,目的是帮助入门者学习RoR (Ruby on Rails) 
 
@@ -25,13 +27,13 @@
 
 ### 截图
 
-<img src="/Image/index.png" width="700">  
+<img src="/Image/index.png">  
 
-<img src="/Image/log.png" width="700">
+<img src="/Image/log.png">
 
-<img src="/Image/course.png" width="700">   
+<img src="/Image/course.png">   
 
-<img src="/Image/selectcourse.png" width="700">
+<img src="/Image/selectcourse.png">
 
 ## 说明
 
