@@ -5,7 +5,7 @@ PATH
       rails (~> 4.2.5.2)
 
 GEM
-  remote: https://gems.ruby-china.org/
+  remote: https://gems.ruby-china.com/
   specs:
     actionmailer (4.2.5.2)
       actionpack (= 4.2.5.2)
@@ -246,4 +246,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.13.6
+   1.17.3
