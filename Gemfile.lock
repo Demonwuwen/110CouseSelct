@@ -171,7 +171,7 @@ GEM
       spreadsheet (> 0.6.4)
     ruby-ole (1.2.12)
     ruby_http_client (3.0.0)
-    rubyzip (1.2.0)
+    rubyzip (2.0.0)
     rucaptcha (1.2.0)
       railties (>= 3.2)
     safe_yaml (1.0.4)
