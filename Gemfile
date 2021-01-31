@@ -1,6 +1,6 @@
 source 'https://gems.ruby-china.com'
 
-gem 'bootstrap-sass', '~> 3.3.7'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'inform',:path => "vendor/inform"
 gem 'prawn'
